@@ -1,0 +1,7 @@
+{
+  // Enable format on save globally
+  "editor.formatOnSave": true,
+
+  // Set Prettier as the default formatter for all supported languages
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
