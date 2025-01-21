@@ -20,6 +20,7 @@ export default [
     rules: {
       ...tseslint.configs.strictTypeChecked.rules,
       ...tseslint.configs.stylisticTypeChecked.rules,
+      "@typescript-eslint/no-empty-object-type": "off",
     },
   },
 ]
